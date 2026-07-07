@@ -1,3 +1,7 @@
 Hello git
 This is a git practice
+<<<<<<< HEAD
 here is online modified file lmao
+=======
+modified file hello
+>>>>>>> 9ac8cb9 (here is local file)
